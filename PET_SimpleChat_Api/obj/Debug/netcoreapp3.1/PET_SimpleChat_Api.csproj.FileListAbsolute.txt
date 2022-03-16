@@ -1,0 +1,9 @@
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.csproj.AssemblyReference.cache
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.AssemblyInfoInputs.cache
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.AssemblyInfo.cs
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.RazorAssemblyInfo.cache
+C:\Users\ThinkPro\PET_SimpleChat_Api\PET_SimpleChat_Api\obj\Debug\netcoreapp3.1\PET_SimpleChat_Api.RazorAssemblyInfo.cs
